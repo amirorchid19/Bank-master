@@ -986,7 +986,7 @@ icon
   font-size: 68px;
 }
 
-` .icon-6x {
+ .icon-6x {
   font-size: 88px;
 }
 
@@ -1033,7 +1033,7 @@ top bar
   padding-bottom: 10px;
   background-color: #292929;
   font-size: 12px;
-  color: ##636363;
+  color: #636363;
   font-weight: 500;
   text-transform: uppercase;
 }
@@ -5415,7 +5415,6 @@ Landing Page
 
 
 
-
 /*.bg-default1{
   background: #000;
   color: #fff;
@@ -5427,3 +5426,11 @@ Landing Page
 .dd select > option{
   padding: 10px;
 }*/
+
+.icon-rate{
+  overflow: hidden;
+  text-align: center;
+}
+.box-rate{
+  text-align: center;
+}
